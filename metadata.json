@@ -1,0 +1,6 @@
+{
+  "name": "Aplicativo de Gerenciamento Ubuntu Travel",
+  "description": "Uma aplicação web para gerenciar serviços de agência de viagens, incluindo destinos, pacotes, agendamentos e informações de visto, com um assistente alimentado por IA.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
